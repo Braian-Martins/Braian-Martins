@@ -14,3 +14,6 @@
 </div>
 
 ### Estou cursando Ads no 2° semestre começando alguns projetos com foco no front-end com JS/HTML/CSS
+
+![Snake animation](https://github.com/murillosys/murillosys/blob/output/github-contribution-grid-snake.svg) 
+</div>
