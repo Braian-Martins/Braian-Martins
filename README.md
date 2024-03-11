@@ -13,7 +13,7 @@
     <img aling="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-### Estou cursando Ads no 2° semestre começando alguns projetos com foco no front-end com JS/HTML/CSS
+### Estou cursando Ads no 3° semestre começando alguns projetos com foco no front-end com JS/HTML/CSS
 
 ![Snake animation](https://github.com/murillosys/murillosys/blob/output/github-contribution-grid-snake.svg) 
 </div>
